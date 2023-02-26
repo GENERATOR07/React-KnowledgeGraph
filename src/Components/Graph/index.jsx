@@ -1,6 +1,6 @@
 import React, { useCallback, useEffect, useRef, useState } from "react";
 import { nodes, links } from "./data";
-import { ForceGraph2D, ForceGraph3D } from "react-force-graph";
+import { ForceGraph3D } from "react-force-graph";
 import SpriteText from "three-spritetext";
 
 import {
